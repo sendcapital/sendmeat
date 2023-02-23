@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Blockchain, Algorithms**
 
-- 📫 How to reach me **dylantan.yhao@gmail.com**
+- 📫 How to reach me **yanhao.tan@u.nus.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
