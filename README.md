@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/sendmeat" target="blank"><img src="https://img.shields.io/twitter/follow/sendmeat?logo=twitter&style=for-the-badge" alt="sendmeat" /></a> </p>
 
-- 🔭 I’m currently working on **NUS-SGX Stock Pitch Competition**
-
 - 🌱 I’m currently learning **Tidyverse, Machine Learning**
 
 - 💬 Ask me about **Blockchain, Algorithms**
