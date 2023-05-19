@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/sendmeat" target="blank"><img src="https://img.shields.io/twitter/follow/sendmeat?logo=twitter&style=for-the-badge" alt="sendmeat" /></a> </p>
 
-- 🌱 I’m currently learning **Tidyverse, Machine Learning**
-
-- 💬 Ask me about **Blockchain, Algorithms**
-
 - 📫 How to reach me **yanhao.tan@u.nus.edu**
 
 <h3 align="left">Connect with me:</h3>
