@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dylan</h1>
-<h3 align="center">Data Science & Analytics Sophomore at National University of Singapore</h3>
+<h1 align="center">Hi</h1>
+<h3 align="center">Data Science & Analytics Undergraduate</h3>
 
 <p align="left"> <a href="https://twitter.com/sendmeat" target="blank"><img src="https://img.shields.io/twitter/follow/sendmeat?logo=twitter&style=for-the-badge" alt="sendmeat" /></a> </p>
 
-- 📫 How to reach me **yanhao.tan@u.nus.edu**
+- 📫 How to reach me **@sendmeat** everywhere
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
