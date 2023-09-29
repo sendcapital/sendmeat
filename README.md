@@ -1,5 +1,5 @@
 <h1 align="center">Hello</h1>
-<h3 align="center">Data Science & Analytics Undergraduate</h3>
+<h3 align="center">NUS Data Science & Analytics Undergraduate</h3>
 
 <p align="left"> <a href="https://twitter.com/sendmeat" target="blank"><img src="https://img.shields.io/twitter/follow/sendmeat?logo=twitter&style=for-the-badge" alt="sendmeat" /></a> </p>
 
